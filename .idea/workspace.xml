@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b95956b-a47e-493e-9b3a-ecdaf456a699" name="Default Changelist" comment="" />
+    <list default="true" id="8b95956b-a47e-493e-9b3a-ecdaf456a699" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hello-vue" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rX2SYNoUZ3XXk5q3erfydT5BXS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/would_you_rather" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -53,7 +55,8 @@
       <workItem from="1619137198466" duration="9142000" />
       <workItem from="1619197609010" duration="4254000" />
       <workItem from="1619218325727" duration="1356000" />
-      <workItem from="1619220322456" duration="2093000" />
+      <workItem from="1619220322456" duration="2503000" />
+      <workItem from="1619222941292" duration="236000" />
     </task>
     <servers />
   </component>
@@ -73,10 +76,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1619222123453">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1619223180218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.-147.1920.1040@0.0.1536.824" timestamp="1619222123453" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.-147.1920.1040@0.0.1536.824" timestamp="1619223180218" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1619137986885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

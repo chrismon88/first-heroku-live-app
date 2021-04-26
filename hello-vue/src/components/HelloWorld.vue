@@ -17,7 +17,7 @@ export default {
   props: {
     msg: String
   },
-  mount() {
+  mounted() {
     //anything that needs to happen as app is loaded
     this.$hello_api.getHelloMessage().then( resp =>{
       this.helloMessage = resp.message
